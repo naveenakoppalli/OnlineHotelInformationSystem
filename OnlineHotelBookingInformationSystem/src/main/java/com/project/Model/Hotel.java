@@ -77,7 +77,7 @@ public class Hotel {
 		this.type = type;
 	}
 
-	public Hotel(int hotelId) {
+   public Hotel(int hotelId) {
 		super();
 		this.hotelId = hotelId;
 	}
